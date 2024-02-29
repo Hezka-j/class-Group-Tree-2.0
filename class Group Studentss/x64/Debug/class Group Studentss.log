@@ -1,0 +1,8 @@
+﻿  Group.cpp
+D:\Проекты\class Group Studentss\Group.h(49,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Student.cpp
+  class Group Studentss.cpp
+D:\Проекты\class Group Studentss\Group.h(49,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(162,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  class Group Studentss.vcxproj -> D:\Проекты\class Group Studentss\x64\Debug\class Group Studentss.exe
